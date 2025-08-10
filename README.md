@@ -5,7 +5,7 @@
 The **Lost & Found Asset Registry** is a blockchain-based system for registering valuable items as **NFT proof-of-ownership** 🪪 and attaching a bounty 💰 for their recovery if lost.
   
 Each registered asset is minted as a unique NFT within the contract, storing:
-
+ 
 - 📜 **Description** of the item 
 - 💵 **Bounty amount** in ETH  
 - 📍 **Lost/Found status**
