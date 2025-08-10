@@ -8,7 +8,7 @@ Each registered asset is minted as a unique NFT within the contract, storing:
  
 - 📜 **Description** of the item  
 - 💵 **Bounty amount** in ETH  
-- 📍 **Lost/Found status**
+- 📍 **Lost/Found status** 
 - 🕵️ **Finder address** (once reported)   
 
 If a finder returns the item, the owner can confirm ✅ and release the bounty trustlessly.
